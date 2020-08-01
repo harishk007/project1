@@ -1,3 +1,0 @@
-sample text1
-in sublime
-Hi I'm Harish checking the diff 
